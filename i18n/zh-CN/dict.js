@@ -5,6 +5,7 @@ module.exports = {
     skill_type: {
         "frontend": "Web 前端",
         "backend": "Web 后端",
+		"qualitycontrol": "软件测试",
         "miscellaneous": "其他"
     },
     education_type: {
